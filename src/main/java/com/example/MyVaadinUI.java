@@ -9,6 +9,6 @@ import com.vaadin.ui.UI;
 public class MyVaadinUI extends UI {
     @Override
     protected void init(VaadinRequest vaadinRequest) {
-        setContent(new Label("Hello! I'm the root UI!"));
+        setContent(new Label("Hello! test I'm the root UI!"));
     }
 }
